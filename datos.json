@@ -1,0 +1,12 @@
+{
+  "credenciales": {
+    "usuario": "eduardo",
+    "clave": "Estoesunaclave",
+
+    "videos": [
+      "Primera sesion",
+      "Segunda sesion",
+      "Tercera sesion"
+    ]
+  }
+}
